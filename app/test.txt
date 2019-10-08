@@ -1,0 +1,1346 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class=" lt-ie10 lt-ie9 lt-ie8 ie7" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="lt-ie10 lt-ie9 ie8" lang="en-US"><![endif]-->
+<!--[if IE 9]><html class="lt-ie10 ie9" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en"><!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<title>The Met Philadelphia | Events</title>
+		<meta name="description" content="SHOWTIME REDEFINED.">
+		<meta property="og:description" content="SHOWTIME REDEFINED.">
+		<meta property="og:title" content="The Met PhiladelphiaEvents - The Met Philadelphia">
+		<meta property="og:site_name" content="The Met Philadelphia">
+		<meta property="og:image" content="https://themetphilly.com/wp-content/themes/themet/img/share.png?v=2">
+		<meta property="og:url" content="https://themetphilly.com/events/">
+		<meta property="og:type" content="website">
+		<meta name="format-detection" content="date=no">
+		<link rel="stylesheet" href="https://themetphilly.com/wp-content/themes/themet/css/main.min.css?v=">
+		
+<!-- This site is optimized with the Yoast SEO plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://themetphilly.com/events/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Events - The Met Philadelphia" />
+<meta property="og:url" content="https://themetphilly.com/events/" />
+<meta property="og:site_name" content="The Met Philadelphia" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Events - The Met Philadelphia" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://themetphilly.com/#website","url":"https://themetphilly.com/","name":"The Met Philadelphia","potentialAction":{"@type":"SearchAction","target":"https://themetphilly.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://themetphilly.com/events/#webpage","url":"https://themetphilly.com/events/","inLanguage":"en-US","name":"Events - The Met Philadelphia","isPartOf":{"@id":"https://themetphilly.com/#website"},"datePublished":"2018-08-12T21:31:48+00:00","dateModified":"2018-12-06T00:00:21+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/themetphilly.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://themetphilly.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://themetphilly.com/wp-json/' />
+<link rel='shortlink' href='https://themetphilly.com/?p=35' />
+<link rel="alternate" type="application/json+oembed" href="https://themetphilly.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemetphilly.com%2Fevents%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://themetphilly.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemetphilly.com%2Fevents%2F&#038;format=xml" />
+	</head>
+		<body class="page-Events post-page">	
+	<header>
+		<h1 class="logo">
+			<span>Showtime</span>
+			<a href="https://themetphilly.com"><img src="https://themetphilly.com/wp-content/themes/themet/img/logo.png"></a>
+			<span>Redefined</span>
+		</h1>
+		<div class="hamburger">
+			<a href="#" class="hamburger-icon">
+				<span></span>
+			</a>
+		</div>
+		<nav class="nav-flex" id="js-nav">
+							<ul class="nav-list">
+					<a href="https://themetphilly.com" class="nav-logo">
+						<img src="https://themetphilly.com/wp-content/themes/themet/img/icon-met.png">
+					</a>
+										<li class="nav-parent nav-item nav-current">
+						<a href="https://themetphilly.com/events/" class="nav-list-item">Events						</a>
+											</li>
+								<li class="nav-parent nav-item">
+						<a href="https://themetphilly.com/info/" class="nav-list-item">Venue Info						</a>
+											</li>
+								<li class="nav-parent nav-item">
+						<a href="https://themetphilly.com/about/" class="nav-list-item">About						</a>
+											</li>
+								<li class="nav-parent nav-item">
+						<a href="https://themetphilly.com/parking-travel/" class="nav-list-item">Parking + Travel						</a>
+											</li>
+								<li class="nav-parent nav-item">
+						<a href="https://themetphilly.com/history/" class="nav-list-item">History						</a>
+											</li>
+								<li class="nav-parent nav-item">
+						<a href="https://themetphilly.com/vip-experiences/" class="nav-list-item">VIP Experiences						</a>
+											</li>
+								<li class="nav-parent nav-item">
+						<a href="https://themetphilly.com/faq/" class="nav-list-item">FAQ						</a>
+											</li>
+								<li class="nav-parent nav-item">
+						<a href="https://themetphilly.com/photos/" class="nav-list-item">Photos						</a>
+											</li>
+						</ul>
+			<ul class="social-nav">
+												<li>
+					<a href="http://facebook.com/themetphilly" class="social-icon" target="_blank">
+						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 266.895 266.895"><path fill="#FFF" d="M252.164 0H14.73C6.594 0 0 6.594 0 14.73v237.434c0 8.135 6.594 14.73 14.73 14.73h127.827V163.54h-34.782v-40.28h34.782V93.554c0-34.472 21.054-53.243 51.806-53.243 14.73 0 27.39 1.096 31.08 1.586v36.026l-21.328.01c-16.724 0-19.963 7.947-19.963 19.61v25.716h39.887l-5.193 40.28h-34.694v103.356h68.012c8.135 0 14.73-6.596 14.73-14.73V14.73C266.895 6.594 260.3 0 252.165 0z"/></svg>					</a>
+				</li>
+												<li>
+					<a href="http://twitter.com/themetphilly" class="social-icon" target="_blank">
+						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249.6 202.8"><path fill="#FFF" d="M249.6 24c-9.2 4.1-19.1 6.8-29.4 8.1a51.12 51.12 0 0 0 22.5-28.3c-9.9 5.9-20.8 10.1-32.5 12.4C200.8 6.2 187.5 0 172.8 0c-28.3 0-51.2 22.9-51.2 51.2 0 4 .5 7.9 1.3 11.7C80.4 60.7 42.6 40.4 17.4 9.4 13 17 10.5 25.8 10.5 35.2c0 17.8 9 33.4 22.8 42.6-8.4-.3-16.3-2.6-23.2-6.4v.6c0 24.8 17.7 45.5 41.1 50.2-4.3 1.2-8.8 1.8-13.5 1.8-3.3 0-6.5-.3-9.6-.9 6.5 20.3 25.4 35.1 47.8 35.6-17.5 13.7-39.6 21.9-63.6 21.9-4.1 0-8.2-.3-12.2-.7 22.7 14.5 49.6 23 78.5 23 94.2 0 145.7-78 145.7-145.7 0-2.2-.1-4.4-.1-6.6 9.8-7.3 18.5-16.3 25.4-26.6z"/></svg>					</a>
+				</li>
+												<li>
+					<a href="http://instagram.com/themetphilly" class="social-icon" target="_blank">
+						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.6 204.5"><path fill="#FFF" d="M26.3 0h152c14.4 0 26.3 11.8 26.3 26.3v152c0 14.4-11.8 26.2-26.3 26.2h-152C11.8 204.5 0 192.7 0 178.3v-152C0 11.8 11.8 0 26.3 0zM149 22.7c-5.1 0-9.2 4.2-9.2 9.2v22c0 5.1 4.1 9.2 9.2 9.2h23.1c5.1 0 9.2-4.1 9.2-9.2v-22c0-5.1-4.1-9.2-9.2-9.2H149zm32.4 63.8h-18c1.7 5.6 2.6 11.5 2.6 17.6 0 34-28.5 61.6-63.6 61.6s-63.6-27.6-63.6-61.6c0-6.1.9-12 2.6-17.6H22.7v86.4c0 4.5 3.7 8.1 8.1 8.1h142.4c4.5 0 8.1-3.6 8.1-8.1V86.5zM102.5 62c-22.7 0-41.1 17.8-41.1 39.8 0 22 18.4 39.8 41.1 39.8 22.7 0 41.1-17.8 41.1-39.8 0-22-18.4-39.8-41.1-39.8z"/></svg>					</a>
+				</li>
+												<li>
+					<a href="https://www.youtube.com/channel/UC_5XhDjIxH1x7mpKCNzpbMg" class="social-icon" target="_blank">
+						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114.2 80.3"><path opacity=".12" fill-rule="evenodd" clip-rule="evenodd" d="M45.3 22.9L72.4 41l3.8-2-30.9-16.1z"/><path fill="#fff" d="M113.1 17.3S112 9.4 108.6 6c-4.3-4.5-9.2-4.6-11.4-4.8C81.1 0 57.1 0 57.1 0s-24 0-40 1.2c-2.2.2-7.1.2-11.4 4.8-3.4 3.5-4.6 11.3-4.6 11.3S0 26.6 0 35.8v8.7C0 53.7 1.1 63 1.1 63s1.1 7.9 4.5 11.3c4.3 4.5 10.1 4.4 12.6 4.9 9.1.9 38.8 1.1 38.8 1.1s24 0 40-1.2c2.2-.3 7.1-.3 11.4-4.8 3.4-3.5 4.5-11.3 4.5-11.3s1.1-9.2 1.1-18.5v-8.7c.2-9.2-.9-18.5-.9-18.5zM45.3 55V22.9L76.2 39 45.3 55z"/></svg>					</a>
+				</li>
+							</ul>
+			<form class="search-bar" role="search" method="get" id="searchform" action="https://themetphilly.com">
+	<div class="search-input">
+		<input type="text" class="search-text" value="" placeholder="Search" name="s" id="s"/>
+		<a href="" class="search-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.9 131.9"><path d="M88.1 22.8C74.5.4 45.2-6.7 22.8 6.9s-29.5 43-15.9 65.3C19.1 92.3 43.9 100 65 91.6L87.2 128c2.3 3.8 7.4 5.1 11.2 2.7l.6-.4c3.8-2.3 5.1-7.4 2.7-11.2L79.5 82.7c16.5-15 20.7-40.1 8.6-59.9zm-22 52.7c-.1.1-.3.1-.4.2l-.6.4c-.2.1-.4.3-.7.4-15.7 9.2-36 4.1-45.5-11.5-9.6-15.8-4.6-36.5 11.2-46.1s36.5-4.6 46.1 11.2c9.4 15.4 4.8 35.5-10.1 45.4z" fill="#fff"/></svg>		</a>
+	</div>
+</form>		</nav>
+	</header>
+	<div class="wrapper">
+	<div class="page-header" data-parallax="scroll" data-image-src="https://themetphilly.com/wp-content/uploads/2018/12/TheMetPhilly-Header-1900x900-3.jpg"></div>	
+	<div class="page-wrapper">
+	<div class="page-title">
+		<div class="title-contain">
+			<h1>
+				<span>Events</span>
+			</h1>
+			<img src="/wp-content/themes/themet/img/CityFitness.png">
+		</div>
+	</div>
+	<div class="container">
+						<div class="event-grid">
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/incubus-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/Incubus-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Mon Oct 7th, 2019</h3>
+							<h1>Incubus</h1>
+														<h2>20 Years of Make Yourself & Beyond - 2nd Show Added!</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056A2EE72D5B7?irgwc=1&clickid=VFAR2N1sxxyJWap08lQuCVrSUkl1KbR5Q3V03g0&camefrom=CFC_BUYAT_253158&impradid=253158&REFERRAL_ID=tmfeedbuyat253158&wt.mc_id=aff_BUYAT_253158&utm_source=253158-Facebook-%2520TM&impradname=Facebook-%2520TM&utm_medium=affiliate" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/the-head-and-the-heart/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/HeadHeart-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Tue Oct 8th, 2019</h3>
+							<h1>The Head and The Heart</h1>
+														<h2>Living Mirage Tour</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005673DFBB9BF4" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/young-thug-machine-gun-kelly/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/YT_MGK-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Oct 10th, 2019</h3>
+							<h1>Young Thug &#038; Machine Gun Kelly</h1>
+														<h2>with YBN Nahmir & Strick </h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056F1AD697619" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/ray-lamontagne/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/RayLaMontagne-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Oct 13th, 2019</h3>
+							<h1>Ray LaMontagne</h1>
+														<h2>WXPN Welcomes</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005685CA75D313" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/greta-van-fleet/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/GretaVanFleet_1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Tue Oct 15th, 2019</h3>
+							<h1>Greta Van Fleet</h1>
+														<h2>March of the Peaceful Army</h2>
+													</div>
+					</div>
+					
+					
+							
+					
+					
+											<a class="event-btn btn-accent right-btn disabled-button" target="_blank">Sold Out</a>
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/greta-van-fleet-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/GretaVanFleet_1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Wed Oct 16th, 2019</h3>
+							<h1>Greta Van Fleet</h1>
+														<h2>presented by WMMR</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056A2F118D737" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/ali-wong/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/06/AliWong-1900x900-1-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Oct 17th, 2019</h3>
+							<h1>Ali Wong</h1>
+														<h2>The Milk & Money Tour</h2>
+													</div>
+					</div>
+					
+					
+							
+					
+					
+											<a class="event-btn btn-accent right-btn disabled-button" target="_blank">Sold Out</a>
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/ali-wong-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/06/AliWong-1900x900-1-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Oct 17th, 2019</h3>
+							<h1>Ali Wong</h1>
+														<h2>**Second Show Added By Popular Demand**</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056BF1B4CF8E4" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/rezz/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/REZZ-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Oct 18th, 2019</h3>
+							<h1>Rezz</h1>
+														<h2>with Peekaboo & BlackGummy</h2>
+													</div>
+					</div>
+											<a href="https://www.ticketmaster.com/event/020056B11FC72B03" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/bouts-on-broad-3/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/BoutsOnBroad-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Oct 19th, 2019</h3>
+							<h1>Bouts On Broad</h1>
+														<h2>Philly VS Dallas Edition</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005729C53B7138" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/toto/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/Toto-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Oct 20th, 2019</h3>
+							<h1>Toto</h1>
+														<h2>40 Trips Around The Sun</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056B6DF39CF48" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/nightmare-before-christmas/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/nightmare-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Oct 24th, 2019</h3>
+							<h1>Philly POPS presents Nightmare Before Christmas</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D4B35888E7" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/nightmare-before-christmas-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/nightmare-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Oct 25th, 2019</h3>
+							<h1>Philly POPS presents Nightmare Before Christmas</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D4B3A09186" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/jenny-lewis/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/02/JennyLewis-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Oct 26th, 2019</h3>
+							<h1>Jenny Lewis</h1>
+														<h2>with The Watson Twins </h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200564CD7955760" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/logic/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/Logic-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Tue Oct 29th, 2019</h3>
+							<h1>Logic</h1>
+														<h2>The Confessions of a Dangerous Mind Tour</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056A712A0D6FD" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/nick-offerman/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/NickOfferman-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Nov 2nd, 2019</h3>
+							<h1>Nick Offerman</h1>
+														<h2>All Rise - American Humorist</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200566D0B86D576" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/rosanne-cash-ry-cooder/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/CashCooder-2-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Nov 3rd, 2019</h3>
+							<h1>Rosanne Cash &#038; Ry Cooder</h1>
+														<h2>Cash & Cooder On Cash: The Music of Johnny Cash</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200566FC57ABBF4" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/erykah-badu/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/08/ErykahBadu-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Tue Nov 5th, 2019</h3>
+							<h1>Erykah Badu</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200570EB2C5571A" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/steely-dan/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/SteelyDan-1900x900-1-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Wed Nov 6th, 2019</h3>
+							<h1>Steely Dan</h1>
+														<h2>Performing Aja + The Hits</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005665BD0378F3" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/steely-dan-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/SteelyDan-1900x900-1-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Nov 8th, 2019</h3>
+							<h1>Steely Dan</h1>
+														<h2>Performing Gaucho + The Hits</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005665BD0578FD" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/steely-dan-3/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/SteelyDan-1900x900-1-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Nov 9th, 2019</h3>
+							<h1>Steely Dan</h1>
+														<h2>Performing Greatest Hits</h2>
+													</div>
+					</div>
+					
+					
+							
+					
+					
+											<a class="event-btn btn-accent right-btn disabled-button" target="_blank">Sold Out</a>
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/schoolboy-q/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/SchoolboyQ-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Mon Nov 11th, 2019</h3>
+							<h1>ScHoolboy Q</h1>
+														<h2>Crash Tour with Special Guest NAV</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200572B01AFB188" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/ajr/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/06/AJR-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Nov 14th, 2019</h3>
+							<h1>AJR</h1>
+														<h2>presented by Radio 104.5 • with Flora Cash</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D2D4E6A415" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/ajr-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/06/AJR-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Nov 15th, 2019</h3>
+							<h1>AJR</h1>
+														<h2>presented by Radio 104.5 • with Flora Cash</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D8A40457FA" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/sara-bareilles/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/04/SaraBareilles-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Nov 16th, 2019</h3>
+							<h1>Sara Bareilles</h1>
+														<h2>Amidst The Chaos Tour 2019</h2>
+													</div>
+					</div>
+					
+					
+							
+					
+					
+											<a class="event-btn btn-accent right-btn disabled-button" target="_blank">Sold Out</a>
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/sting/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/sting-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Nov 17th, 2019</h3>
+							<h1>Sting</h1>
+														<h2>My Songs</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005732D8747F6C" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/sara-bareilles-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/04/SaraBareilles-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Mon Nov 18th, 2019</h3>
+							<h1>Sara Bareilles</h1>
+														<h2>1st Show Sold Out! 2nd Show Added Due to Popular Demand</h2>
+													</div>
+					</div>
+											<a href="https://www.ticketmaster.com/event/0200568BF20BE069" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/hozier/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/hozier-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Tue Nov 19th, 2019</h3>
+							<h1>Hozier</h1>
+														<h2>Wasteland, Baby! Tour</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D4B411BECE" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/bob-dylan/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/BobDylan-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Nov 21st, 2019</h3>
+							<h1>Bob Dylan</h1>
+														<h2>And His Band</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056A713FAD778" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/commissioned/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/Commissioned-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Nov 22nd, 2019</h3>
+							<h1>Commissioned</h1>
+														<h2>Homecoming Tour</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056EFBCC26FBF" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/the-life-story-of-mahalia-jackson/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/10/mahalia-jackson-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Nov 23rd, 2019</h3>
+							<h1>The Life Story of Mahalia Jackson</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005734FDBBA8BA" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/the-life-story-of-mahalia-jackson-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/10/mahalia-jackson-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Nov 23rd, 2019</h3>
+							<h1>The Life Story of Mahalia Jackson</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005734FDB9A8B7" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/the-life-story-of-mahalia-jackson-3/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/10/mahalia-jackson-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Nov 24th, 2019</h3>
+							<h1>The Life Story of Mahalia Jackson</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005734FDBDA8BC" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/philly-pops-presents-uptown-christmas/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/PhillyPops-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Nov 29th, 2019</h3>
+							<h1>Philly POPS presents Uptown Christmas</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D4B2AA885F" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/the-music-of-queen/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/02/MusicOfQueen-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Nov 30th, 2019</h3>
+							<h1>The Music of Queen</h1>
+														<h2>presented by Philly POPS</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200564DABAB4323" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/philly-pops-presents-uptown-christmas-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/PhillyPops-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Dec 1st, 2019</h3>
+							<h1>Philly POPS presents Uptown Christmas</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D4B2FA889E" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/she-him/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/SheHim-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Wed Dec 4th, 2019</h3>
+							<h1>She &#038; Him</h1>
+														<h2>Christmas Party</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200572BC49C7F2C" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/pj-masks-live/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/PJMasks-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Dec 5th, 2019</h3>
+							<h1>PJ Masks Live!</h1>
+														<h2>Save The Day</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005714F929BE08" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/madonna-3/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/Madonna-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Dec 7th, 2019</h3>
+							<h1>MADONNA</h1>
+														<h2>MADAME X TOUR</h2>
+													</div>
+					</div>
+											<a href="https://www.ticketmaster.com/event/0200568CC512A14E" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/madonna/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/Madonna-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Dec 8th, 2019</h3>
+							<h1>MADONNA</h1>
+														<h2>MADAME X TOUR</h2>
+													</div>
+					</div>
+											<a href="https://www.ticketmaster.com/event/020056AFA5389E0E" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/madonna-4/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/Madonna-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Tue Dec 10th, 2019</h3>
+							<h1>MADONNA</h1>
+														<h2>presented by Citi Sound Vault</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056AFA55E9E3A?irgwc=1&clickid=QvrTPKTYHxyJWYpwUx0Mo38zUklVHpWRQ3V03g0&camefrom=CFC_BUYAT_253158&impradid=253158&REFERRAL_ID=tmfeedbuyat253158&wt.mc_id=aff_BUYAT_253158&utm_source=253158-Facebook-%2520TM&impradname=Facebook-%2520TM&utm_medium=affiliate" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/madonna-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/Madonna-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Wed Dec 11th, 2019</h3>
+							<h1>MADONNA</h1>
+														<h2>MADAME X TOUR</h2>
+													</div>
+					</div>
+											<a href="https://www.ticketmaster.com/event/020056AFA5A49E73" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/martina-mcbride/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/08/MartinaMcBride-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Dec 13th, 2019</h3>
+							<h1>Martina McBride</h1>
+														<h2>presented by XTU • The Joy of Christmas 2019</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005707A45D5125" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/ween-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/Ween-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Dec 14th, 2019</h3>
+							<h1>Ween</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200572DFD89E32B" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/pentatonix-3/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/Pentatonix-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Dec 15th, 2019</h3>
+							<h1>Pentatonix</h1>
+														<h2>A Pentatonix Christmas Tour 2019</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200572ACDF86F6E" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/pentatonix-4/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/Pentatonix-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Mon Dec 16th, 2019</h3>
+							<h1>Pentatonix</h1>
+														<h2>A Pentatonix Christmas Tour 2019</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200572ACEE57050" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/moscow-ballet/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/05/MoscowBallet-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Dec 19th, 2019</h3>
+							<h1>Moscow Ballet</h1>
+														<h2>Great Russian Nutcracker</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056A7E4C6B87B" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/wdas-holiday-jam/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/HolidayJam19-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Dec 21st, 2019</h3>
+							<h1>WDAS Holiday Jam</h1>
+														<h2>Kem • Kirk Franklin • Brownstone</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200572B073DB787" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/govt-mule/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/10/GovtMule-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Dec 27th, 2019</h3>
+							<h1>Gov&#8217;t Mule</h1>
+														<h2>with Allman Betts Band</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200573AED8C9B64" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/pnb-rock-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/PnBRock-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Dec 28th, 2019</h3>
+							<h1>PnB Rock</h1>
+														<h2>New Show Date. All Tickets Honored!</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056EFBC446F7C" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/femme-it-forward-presents-monica-%e2%80%a2-ashanti/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/femme-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Jan 3rd, 2020</h3>
+							<h1>Femme It Forward presents Monica • Ashanti</h1>
+														<h2>plus special guests</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005725DCD87BBE" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/deadmau5/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/deadmau5-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Jan 23rd, 2020</h3>
+							<h1>Deadmau5</h1>
+														<h2>with LIGHTS</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200567C0751DB74" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/deadmau5-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/03/deadmau5-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Jan 24th, 2020</h3>
+							<h1>Deadmau5</h1>
+														<h2>with LIGHTS</h2>
+													</div>
+					</div>
+											<a href="https://www.ticketmaster.com/deadmau5-tickets/artist/1221074" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/dancing-with-the-stars-live-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2018/09/dwts-1900x900-1-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Jan 26th, 2020</h3>
+							<h1>Dancing with the Stars: Live!</h1>
+														<h2>2020 Tour</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/0200572CE7A2BC1C" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/little-big-town/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/LittleBigTown-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Jan 30th, 2020</h3>
+							<h1>Little Big Town</h1>
+														<h2>with Caitlyn Smith</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005725BA706357" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/little-big-town-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/LittleBigTown-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Jan 31st, 2020</h3>
+							<h1>Little Big Town</h1>
+														<h2>with Caitlyn Smith</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005725BB8163B0" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/tim-and-eric/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/timeric-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Mon Feb 10th, 2020</h3>
+							<h1>Tim and Eric</h1>
+														<h2>2020 Mandatory Attendance World Tour</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005711D84B6CC4" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/boyz-ii-men-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/BoyzIIMen-Val-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Feb 14th, 2020</h3>
+							<h1>Boyz II Men</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/02005731BEE4A8C4" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/dermot-kennedy/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/09/dermot-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Feb 29th, 2020</h3>
+							<h1>Dermot Kennedy</h1>
+														<h2>Without Fear Tour</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020057330611B6E2" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/the-bachelor-live/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/Bachelor-1900x9001-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Mar 20th, 2020</h3>
+							<h1>The Bachelor Live</h1>
+													</div>
+					</div>
+											<a href="https://www.ticketmaster.com/event/020056EADAE68F95" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/celtic-woman/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/10/celtic-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Tue Mar 31st, 2020</h3>
+							<h1>Celtic Woman</h1>
+													</div>
+					</div>
+					
+											<a href="https://concerts1.livenation.com/event/020057319FBA5307" class="event-btn btn-accent right-btn" target="_blank">On Sale Soon</a>
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/my-dad-wrote-a-porno/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/06/MDWAP-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Thu Apr 2nd, 2020</h3>
+							<h1>My Dad Wrote A Porno</h1>
+														<h2>Brand New Live Show</h2>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056B4C0FA8EEE" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/disneys-broadway-hits/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/BroadwayHits-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sat Apr 4th, 2020</h3>
+							<h1>Philly POPS presents Disney&#8217;s Broadway Hits</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D4B473BF17" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/disneys-broadway-hits-2/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/07/BroadwayHits-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Sun Apr 5th, 2020</h3>
+							<h1>Philly POPS presents Disney&#8217;s Broadway Hits</h1>
+													</div>
+					</div>
+											<a href="https://concerts1.livenation.com/event/020056D4B4B4BF8C" class="event-btn btn-accent right-btn" target="_blank">Purchase Tickets</a>
+					
+					
+							
+					
+					
+									</div>
+											<div class="event-item">
+					<div class="event-link-container">
+						<a href="https://themetphilly.com/event/dead-can-dance/"></a>
+						<img src="https://themetphilly.com/wp-content/uploads/2019/10/DeadCanDance-1900x900-600x284.jpg" class="event-list-image">
+						<div class="event-item-info">
+							<h3>Fri Apr 17th, 2020</h3>
+							<h1>Dead Can Dance</h1>
+														<h2>A Celebration - Life & Works 1980 - 2020</h2>
+													</div>
+					</div>
+					
+											<a href="https://concerts1.livenation.com/event/02005743BF7B4910" class="event-btn btn-accent right-btn" target="_blank">On Sale Soon</a>
+					
+							
+					
+					
+									</div>
+								</div>
+				</div>
+	
+		<div class="content sub-footer">
+			<div class="container">
+				<div class="grid">
+												<div class="cta-item grid-item" style="background-image: url(https://themetphilly.com/wp-content/uploads/2019/06/venue.jpg)">
+								<a href="https://themetphilly.com/info/"></a>
+								<div class="cta-icon">
+									<img src="https://themetphilly.com/wp-content/themes/themet/img/icon-book.png">
+								</div>
+								<div class="cta-info">
+									<h1>Venue Info</h1>
+									<h2>Everything You Need to Know</h2>
+								</div>
+							</div>
+							
+																	<div class="cta-item grid-item" style="background-image: url(https://themetphilly.com/wp-content/uploads/2019/06/seating.jpg)">
+								<a href="http://themetphilly.wpengine.com/premium-seating/"></a>
+								<div class="cta-icon">
+									<img src="https://themetphilly.com/wp-content/themes/themet/img/icon-tickets.png">
+								</div>
+								<div class="cta-info">
+									<h1>Premium Seating</h1>
+									<h2>Learn More About Our VIP Experiences</h2>
+								</div>
+							</div>
+							
+																	<div class="cta-item grid-item" style="background-image: url(https://themetphilly.com/wp-content/uploads/2019/06/parking.jpg)">
+								<a href="http://themetphilly.wpengine.com/parking-travel/"></a>
+								<div class="cta-icon">
+									<img src="https://themetphilly.com/wp-content/themes/themet/img/icon-parking.png">
+								</div>
+								<div class="cta-info">
+									<h1>Parking & Travel</h1>
+									<h2>Plan Your Evening on N. Broad St</h2>
+								</div>
+							</div>
+							
+									</div>
+			</div>
+		</div>		
+	</div>
+	</div>
+		<footer>
+						<div class="footer-container">
+				<div>
+				<a href="https://themetphilly.com">
+					<img src="https://themetphilly.com/wp-content/themes/themet/img/icon-met.png" class="footer-logo">
+				</a>
+									<p>
+						THE METROPOLITAN OPERA HOUSE<br />
+													858 N. BROAD ST, 
+PHILADELPHIA, PA 19130<br/>
+												<!--							1 (800) 745-3000<br/>
+						-->
+ 						 							<a href="mailto:info@TheMetPhilly.com">info@TheMetPhilly.com</a>
+ 											</p>
+								<ul class="footer-social">
+										<li>
+						<a href="http://facebook.com/themetphilly" class="footer-social-icon" target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 266.895 266.895"><path fill="#FFF" d="M252.164 0H14.73C6.594 0 0 6.594 0 14.73v237.434c0 8.135 6.594 14.73 14.73 14.73h127.827V163.54h-34.782v-40.28h34.782V93.554c0-34.472 21.054-53.243 51.806-53.243 14.73 0 27.39 1.096 31.08 1.586v36.026l-21.328.01c-16.724 0-19.963 7.947-19.963 19.61v25.716h39.887l-5.193 40.28h-34.694v103.356h68.012c8.135 0 14.73-6.596 14.73-14.73V14.73C266.895 6.594 260.3 0 252.165 0z"/></svg>						</a>
+					</li>
+															<li>
+						<a href="http://twitter.com/themetphilly" class="footer-social-icon" target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249.6 202.8"><path fill="#FFF" d="M249.6 24c-9.2 4.1-19.1 6.8-29.4 8.1a51.12 51.12 0 0 0 22.5-28.3c-9.9 5.9-20.8 10.1-32.5 12.4C200.8 6.2 187.5 0 172.8 0c-28.3 0-51.2 22.9-51.2 51.2 0 4 .5 7.9 1.3 11.7C80.4 60.7 42.6 40.4 17.4 9.4 13 17 10.5 25.8 10.5 35.2c0 17.8 9 33.4 22.8 42.6-8.4-.3-16.3-2.6-23.2-6.4v.6c0 24.8 17.7 45.5 41.1 50.2-4.3 1.2-8.8 1.8-13.5 1.8-3.3 0-6.5-.3-9.6-.9 6.5 20.3 25.4 35.1 47.8 35.6-17.5 13.7-39.6 21.9-63.6 21.9-4.1 0-8.2-.3-12.2-.7 22.7 14.5 49.6 23 78.5 23 94.2 0 145.7-78 145.7-145.7 0-2.2-.1-4.4-.1-6.6 9.8-7.3 18.5-16.3 25.4-26.6z"/></svg>						</a>
+					</li>
+															<li>
+						<a href="http://instagram.com/themetphilly" class="footer-social-icon" target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.6 204.5"><path fill="#FFF" d="M26.3 0h152c14.4 0 26.3 11.8 26.3 26.3v152c0 14.4-11.8 26.2-26.3 26.2h-152C11.8 204.5 0 192.7 0 178.3v-152C0 11.8 11.8 0 26.3 0zM149 22.7c-5.1 0-9.2 4.2-9.2 9.2v22c0 5.1 4.1 9.2 9.2 9.2h23.1c5.1 0 9.2-4.1 9.2-9.2v-22c0-5.1-4.1-9.2-9.2-9.2H149zm32.4 63.8h-18c1.7 5.6 2.6 11.5 2.6 17.6 0 34-28.5 61.6-63.6 61.6s-63.6-27.6-63.6-61.6c0-6.1.9-12 2.6-17.6H22.7v86.4c0 4.5 3.7 8.1 8.1 8.1h142.4c4.5 0 8.1-3.6 8.1-8.1V86.5zM102.5 62c-22.7 0-41.1 17.8-41.1 39.8 0 22 18.4 39.8 41.1 39.8 22.7 0 41.1-17.8 41.1-39.8 0-22-18.4-39.8-41.1-39.8z"/></svg>						</a>
+					</li>
+															<li>
+						<a href="https://www.youtube.com/channel/UC_5XhDjIxH1x7mpKCNzpbMg" class="footer-social-icon" target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114.2 80.3"><path opacity=".12" fill-rule="evenodd" clip-rule="evenodd" d="M45.3 22.9L72.4 41l3.8-2-30.9-16.1z"/><path fill="#fff" d="M113.1 17.3S112 9.4 108.6 6c-4.3-4.5-9.2-4.6-11.4-4.8C81.1 0 57.1 0 57.1 0s-24 0-40 1.2c-2.2.2-7.1.2-11.4 4.8-3.4 3.5-4.6 11.3-4.6 11.3S0 26.6 0 35.8v8.7C0 53.7 1.1 63 1.1 63s1.1 7.9 4.5 11.3c4.3 4.5 10.1 4.4 12.6 4.9 9.1.9 38.8 1.1 38.8 1.1s24 0 40-1.2c2.2-.3 7.1-.3 11.4-4.8 3.4-3.5 4.5-11.3 4.5-11.3s1.1-9.2 1.1-18.5v-8.7c.2-9.2-.9-18.5-.9-18.5zM45.3 55V22.9L76.2 39 45.3 55z"/></svg>						</a>
+					</li>
+									</ul>
+			</div>
+			</div>
+			<div class="newsletter">
+			    <p>Join our newsletter</p>
+			    <form action="https://TheMetPhilly.us18.list-manage.com/subscribe/post?u=3512d978ab7e3bcf10b5259c9&amp;id=a8b0798451" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"  target="_blank" novalidate>
+			        <input type="email" placeholder="Enter Your Email Address" name="EMAIL" class="required email" id="mce-EMAIL">
+			        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="" tabindex="-1" value=""></div>
+			        <input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe">
+			    </form>
+			</div>
+			<div class="copyright">
+			    <a href="http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy" target="_blank" class="privacy">
+			        Privacy Policy
+			    </a>
+			    <p>Copyright © 2018 - 2019 The Met Philly</p>
+			</div>
+		</footer>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+				<script src="https://themetphilly.com/wp-content/themes/themet/js/main.min.js"></script>
+		<!-- Google Code for All Visitors To Site -->
+		<!-- Google Code for Remarketing Tag -->
+		<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 984361075;
+		var google_conversion_label = "pD8XCJaenoMBEPPQsNUD";
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/984361075/?label=pD8XCJaenoMBEPPQsNUD&amp;guid=ON&amp;script=0"/>
+		</div>
+		</noscript>
+		<script type='text/javascript' src='https://themetphilly.com/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+	</body>
+</html>

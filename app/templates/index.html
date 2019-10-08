@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Datatables Example</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.18/css/jquery.dataTables.min.css"/>
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+  <script src="https://cdn.datatables.net/plug-ins/1.10.20/sorting/datetime-moment.js"></script>
+
+</head>
+<body>
+<h1>Met Events</h1>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Name</th>
+
+            </tr>
+        </thead>
+
+    </table>
+<script>
+function setupData() {
+    $(document).ready(function () {
+    var format = 'MMMM Do, YYYY'
+    var locale = ' '
+        $.fn.dataTable.moment = function ( format, locale ) {
+    var types = $.fn.dataTable.ext.type;
+ 
+    // Add type detection
+    types.detect.unshift( function ( d ) {
+        return moment( d, format, locale, true ).isValid() ?
+            'moment-'+format :
+            null;
+    } );
+ 
+    // Add sorting method - use an integer for the sorting
+    types.order[ 'moment-'+format+'-pre' ] = function ( d ) {
+        return moment( d, format, locale, true ).unix();
+    };
+};
+        $('#example').DataTable({
+            "ajax": {
+                "processing": true,
+                "serverSide": true,
+                "url": "/events", 
+                "dataType": "json",
+                "dataSrc": "data"
+            },
+            "pageLength": 100,
+            "order[i][column]":0,
+            "order[i][dir]":"asc",
+            "columns" : [
+                {data: "Date"},
+                {data: "Name"}
+            ]
+        });
+    });
+}
+$( window ).on( "load", setupData );
+</script>
+</body>
+</html>
